@@ -5,7 +5,7 @@ Links
 --------
 * [Creators page](http://www.aerialline.com/comics/ubunchu/)
 * [Publishing magazine](http://ubuntu.asciimw.jp/)
-* [PDF/ZIP downloads](http://sirtetris.com/?t=ubunchu)
+* [PDF/ZIP downloads](http://sirtetris.com/?a=d932debd)
 
 Notes
 -----
