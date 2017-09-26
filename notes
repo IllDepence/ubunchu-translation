@@ -14,7 +14,7 @@ _..._ for emphasis, italicized titles, etc.
 
 convert *.jpg pre.pdf
 gs -sDEVICE=pdfwrite -sPAPERSIZE=a4 -dFIXEDMEDIA -dPDFFitPage -dCompatibilityLevel=1.4 -o ubunchu_XX.pdf pre.pdf
-exiftool -Title="Ubunchu! Chapter X: Title" ubunchu_XX.pdf
+exiftool -Title='Ubunchu! Chapter X: Title' ubunchu_XX.pdf
 
 
 
